@@ -1,6 +1,7 @@
 ## Hi there 👋
-
-BlaBlaBLa
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1pNjl1dGp1emFwM2ljMHNxN3QzN2RhcDhtcGpidDh0bmxpNmVweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ER1kvqvI3mb4s/giphy.gif" alt="animated" />
+</p>
 
 <!--
 **jiSalinas/jiSalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
